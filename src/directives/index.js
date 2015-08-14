@@ -13,6 +13,7 @@ exports.transition = require('./transition')
 // event listener directives
 exports.on = require('./on')
 exports.model = require('./model')
+exports.change = require('./change')
 
 // logic control directives
 exports.repeat = require('./repeat')
